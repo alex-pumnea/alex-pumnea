@@ -1,8 +1,8 @@
 <code>🎓 Student: MOOC.fi Java Programming, Metarhia Summer School 2022</code><br>
 <code>👋 Community: Metarhia</code></br>
 <code>👷 Speciality: Software engineer / Backend</code><br>
-<code>💡 [Skills](SKILLS.md)</code><br>
-<code>🧻 [Projects](PROJECTS.md)</code><br>
+<code>💡 [Skills](SKILLS.md)</code>
+<code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: Java, JavaScript, MQL4/5</code>
 <code>📦 Tech stack: Spring, node.js</code><br>
