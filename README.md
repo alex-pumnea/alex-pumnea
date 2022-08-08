@@ -1,4 +1,4 @@
-<code>🎓 Student: Metarhia Summer School 2022</code>
+<code>🎓 Student: Metarhia Summer School 2022, MOOC.fi Java Programming</code>
 <code>👋 Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Backend</code></br>
 <code>💡 [Skills](SKILLS.md)</code>
