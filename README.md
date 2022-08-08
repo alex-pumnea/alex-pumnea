@@ -6,8 +6,8 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: Java, JavaScript, MQL4/5</code>
 <code>📦 Tech stack: Java, node.js</code>
-<code>💬 telegram: [@alexpumnea](https://telegram.me/alexpumnea)</code>
-<code>📫 [your-email](mailto:alexandr.pumnea@gmail.com)</code>
+<code>(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) telegram: [@alexpumnea](https://telegram.me/alexpumnea)</code>
+<code>📫 [Mail Me](mailto:alexandr.pumnea@gmail.com)</code>
 
 
 <!---
