@@ -8,4 +8,4 @@
 <code>📦 Tech stack: Java, node.js</code>
 <code>💬 Telegram: [@alexpumnea](https://telegram.me/alexpumnea)</code>
 <code>📫 [Mail Me](mailto:alexandr.pumnea@gmail.com)</code>
-<code>📯 [LinkedIn] (https://www.linkedin.com/in/alexandr-pumnea/)</code>
+<code>📯 [LinkedIn](https://www.linkedin.com/in/alexandr-pumnea/)</code>
