@@ -4,7 +4,7 @@
 <code>💡 [Skills](SKILLS.md)</code><br>
 <code>🧻 [Projects](PROJECTS.md)</code><br>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: Java, JavaScript, MQL4/5</code>&nbsp  
+<code>🧑‍💻 Languages: Java, JavaScript, MQL4/5</code> &nbsp  
 <code>📦 Tech stack: Spring, node.js</code><br>
 <code>💬 Telegram: [@alexpumnea](https://telegram.me/alexpumnea)</code>
 <code>📫 [Mail Me](mailto:alexandr.pumnea@gmail.com)</code>
