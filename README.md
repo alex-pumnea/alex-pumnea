@@ -1,8 +1,6 @@
 <code>🎓 Student: MOOC.fi Java Programming</code>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: Java, MQL4/5</code>
+<code>🧑‍💻 Languages: Java, MQL4/5</code><br>
 <code>📦 Tech stack: Java, Spring Core, Spring Data JPA, Hibernate, Mockito, jUnit, Maven</code><br>
 <code>✍🏼 Contact Me @ </code>
 <code>📯 [LinkedIn](https://www.linkedin.com/in/alexandr-pumnea/)</code>
