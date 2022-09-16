@@ -1,4 +1,4 @@
-<code>🎓 Student: MOOC.fi Java Programming</code>
+<code>🎓 Student: MOOC.fi Java Programming II</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: Java, MQL4/5</code><br>
 <code>📦 Tech stack: Java, Spring Core, Spring Data JPA, Hibernate, Mockito, jUnit, Maven</code><br>
