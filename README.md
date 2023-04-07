@@ -1,5 +1,5 @@
+<code>🎓 Java & Spring Enthusiast
 <code>🎓 Student: MJC School, by EPAM</code>
-<code>🎓 Student: Java Tech Course, by Endava</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: Java, MQL4/5</code><br>
 <code>✍🏼 Contact Me @ </code>
